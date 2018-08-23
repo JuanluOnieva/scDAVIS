@@ -1,0 +1,12 @@
+shiny
+shinyFiles
+Seurat
+dplyr
+RColorBrewer
+shinycssloaders
+Matrix
+DT
+shinyjs
+plotly
+shinyWidgets
+shinydashboard
